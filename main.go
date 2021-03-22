@@ -7,4 +7,5 @@ func main() {
 	fmt.Printf("commit1")
 	fmt.Printf("commit2")
 	fmt.Printf("commit3")
+	fmt.Printf("trying to commit")
 }
